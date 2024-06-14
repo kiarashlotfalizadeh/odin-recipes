@@ -1,0 +1,28 @@
+h1 {
+    background-color: green;
+    color: red;
+    text-align: center;
+}
+
+a {
+    font-weight: bold;
+    color: red;
+    font-size: 24px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h3 {
+    background-color: green;
+    color: red;
+    text-align: center;
+    font-size: 24px;
+}
+
+ul, ol, .description {
+    background-color: red;
+    color: white;
+}
